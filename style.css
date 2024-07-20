@@ -76,7 +76,7 @@ color:#ededed
 
   /* Main-banner */
 .main-banner{
-background-image: url("/8_Projeto3/img/mainbanner.png");
+background-image: url("mainbanner.png");
 background-size: cover;
 background-position: center;
 padding: 10rem 0;
